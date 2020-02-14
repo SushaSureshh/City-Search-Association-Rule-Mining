@@ -1,2 +1,2 @@
 # Coveo_prediction_assignment
-Coveo data challenge challenge
+Coveo data challenge solution
