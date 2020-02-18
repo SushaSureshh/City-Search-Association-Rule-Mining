@@ -1,2 +1,2 @@
-# Coveo_prediction_assignment
-Coveo data challenge solution
+# Prediction of next city to be searched
+Solution to data challenge using association rule mining.
