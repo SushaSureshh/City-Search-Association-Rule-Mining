@@ -1,5 +1,5 @@
 
-''' Author : Susha Pozhampallan Suresh, as an assignment for the position of Machine Learning Engineer in Coveo
+''' Author : Susha Pozhampallan Suresh
 
 The program takes as input the data, trains an apriori algorithm, and fp tree algorithm to find frequent dataset.
 
